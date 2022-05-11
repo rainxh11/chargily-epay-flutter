@@ -10,7 +10,7 @@ This Plugin is to integrate ePayment gateway with Chargily easily.
 - This repo is recently created for **Flutter Package**, If you are a developer and want to collaborate to the development of this package, you are welcomed!
 
 # Installation:
-Edit `pubspec.yaml` file to include [`chargily_flutter`](https://pub.dev/packages/chargily_flutter) package:
+Edit `pubspec.yaml` file to include [`chargily_flutter`](http://pub.dev/packages/chargily_flutter) package:
 ```yaml
 dependencies:
   flutter:
